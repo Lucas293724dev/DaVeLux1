@@ -1,0 +1,10 @@
+{
+  "guilds": {},
+  "blacklist": [],
+  "global_channels": {},
+  "banned_words": [],
+  "log": {
+    "guild_id": null,
+    "channel_id": null
+  }
+}
